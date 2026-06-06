@@ -5,7 +5,7 @@
       {
         "id": "a1_1",
         "title": "Starting a Conversation",
-        "dialogue": ["AI: Excuse me, is this seat free?", "User: Yes, you can sit here. Are you new?", "AI: I am. I started in Marketing today.", "User: Welcome! It's a busy floor but the team is great.", "AI: Good to hear. I'm a bit nervous about the first day."],
+        "dialogue": ["AI: Excused me, is this seat free?", "User: Yes, you can sit here. Are you new?", "AI: I am. I started in Marketing today.", "User: Welcome! It's a busy floor but the team is great.", "AI: Good to hear. I'm a bit nervous about the first day."],
         "grammar_focus": "Yes/No Questions & Simple Present"
       },
       {
